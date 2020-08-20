@@ -1,0 +1,11 @@
+{
+  "name": "bull-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Chris Rutherford <therealchrisrutherford@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/bull": "^3.14.1",
+    "bull": "^3.18.0"
+  }
+}
